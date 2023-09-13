@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SettingsPage.qml</file>
+        <file>PlotPage.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>ScanPage.qml</file>
+        <file>DeviceState.qml</file>
+        <file>AboutPage.qml</file>
+        <file>MyStatusBar.qml</file>
+    </qresource>
+</RCC>
